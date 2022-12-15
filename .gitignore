@@ -1,6 +1,7 @@
 .env
 /allure-results/
 test-output
+test-output-thread
 /target/
 ### Eclipse ###
 .metadata
